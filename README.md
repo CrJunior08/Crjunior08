@@ -1,4 +1,4 @@
-<h1>Boa Pessoal, sou Cleriston Junior, desenvolvedor de software 😄</h1>
+## Boa Pessoal, sou Cleriston Junior, desenvolvedor de software 😄
 
 <p>Sou desenvolvedor de software <strong>desde 2022</strong>, com experiência em todo o ciclo de vida do sistema, desde a arquitetura até o deploy, focado em criar soluções robustas e eficientes, com especialização em APIs REST, C# .NET, Scrum e Kanban.</p>
 
